@@ -45,7 +45,7 @@ F 3 "" H 10175 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 10175 5900 0    50   ~ 0
-IMD_Output
+IMD_Status_Output
 $Comp
 L power:+12V #PWR011
 U 1 1 5DE97B8C
